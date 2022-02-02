@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Chronicles Of Narnia
+* Harry Potter
+  * Harry Potter And The Chamber Of Secrets
+  * Harry Potter And The Prisoner Of Askaban
